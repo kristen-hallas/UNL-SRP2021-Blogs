@@ -11,7 +11,7 @@ To finalize our posters we took some glamour shots of the equipment and our meth
 
 Check out the evolution of my poster below. You can also check out my presentation at this link: https://mediahub.unl.edu/media/17489
 
-![ Before ](HallasWK9-17.jpg) ![ After! ](HallasWK9-18.PNG)
+![ Before ](HallasWK9-17.jpg) ![ After! ](HallasWK9-17.PNG)
 
 
 ## Lincoln

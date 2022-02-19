@@ -50,7 +50,7 @@ Anyway, more fun stuff. A friend and I went to the Omaha Zoo! Here are some of t
 
 Wait, that last picture is actually from A Novel Idea Bookstore! They were open for Lincoln's Pineapple Days during the last week of June. It has been so much fun to shop local here. Everyone keeps commenting on how cute my outfits are, and I keep telling them, they have to come get some outfits of their own in Lincoln! By the way, my birthday was really fun too. I went to dinner at Bison Witches and saw the new Conjuring movie with some friends in the program. It was one of the best birthdays I've had, and I'm so grateful for the connections I've made here!
 
-![felt cute ](HallasWK5-18.jpg) ![soup in a BREAD bowl! ](HallasWK5-19.jpg) 
+![felt cute ](HallasWK5-18.png) ![soup in a BREAD bowl! ](HallasWK5-19.png) 
 
 Next week, we will do more calibration and study design, I will finish my 330 drone and maybe even start building a 550. See you next week! [Want to read about next week?](/6/HallasWK6.md)
 
