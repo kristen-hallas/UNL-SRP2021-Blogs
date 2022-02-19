@@ -47,15 +47,15 @@ July 4th was really fun too! I went to Pawnee Lake with some friends of mine, an
 
 
 
-Next week, we are really excited to move forward with concrete goals, like taking our FAA 107 exams and solidifying the methodology for IRB approval. We will also focus on making annotations, drafting our poster. See you then! [Want to read about next week?](./7/HallasWK7.md)
+Next week, we are really excited to move forward with concrete goals, like taking our FAA 107 exams and solidifying the methodology for IRB approval. We will also focus on making annotations, drafting our poster. See you then! [Want to read about next week?](/7/HallasWK7.md)
 
 # Table of contents
-* [Week 1](./1/HallasWK1.md)
-* [Week 2](./2/HallasWK2.md)
-* [Week 3](./3/HallasWK3.md)
-* [Week 4](./4/HallasWK4.md)
-* [Week 5](./5/HallasWK5.md)
-* [Week 6](./6/HallasWK6.md)
-* [Week 7](./7/HallasWK7.md)
-* [Week 8](./8/HallasWK8.md)
-* [Week 9](./9/HallasWK9.md)
+* [Week 1](/1/HallasWK1.md)
+* [Week 2](/2/HallasWK2.md)
+* [Week 3](/3/HallasWK3.md)
+* [Week 4](/4/HallasWK4.md)
+* [Week 5](/5/HallasWK5.md)
+* [Week 6](/6/HallasWK6.md)
+* [Week 7](/7/HallasWK7.md)
+* [Week 8](/8/HallasWK8.md)
+* [Week 9](/9/HallasWK9.md)
