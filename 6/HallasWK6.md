@@ -47,7 +47,7 @@ July 4th was really fun too! I went to Pawnee Lake with some friends of mine, an
 
 
 
-Next week, we are really excited to move forward with concrete goals, like taking our FAA 107 exams and solidifying the methodology for IRB approval. We will also focus on making annotations, drafting our poster. See you then! [Want to read about next week?](/7/HallasWK7.md)
+Next week, we are really excited to move forward with concrete goals, like taking our FAA 107 exams and solidifying the methodology for IRB approval. We will also focus on making annotations, drafting our poster. See you then! [Want to read about next week?](7/HallasWK7.md)
 
 # Table of contents
 * [Week 1](/1/HallasWK1.md)
