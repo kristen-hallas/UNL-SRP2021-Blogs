@@ -14,7 +14,7 @@ Getting my F330 flight ready was harder than it looked! It turns out that I got 
 
 At least we made s'mores with the soldering gun, kudos to Santiago!
 
-![Starting to make smores](HallasWK6-06.png) ![It was so good! ](HallasWK6-07.png)
+![It was so good! ](HallasWK6-07.png)
 
 
 
@@ -27,7 +27,7 @@ At least we made s'mores with the soldering gun, kudos to Santiago!
 
 To start off the week, we had a great talk from Dr. Tran about the research process. He told us we needed to be disciplined like a monk if we wanted to continue research. I appreciated that comparison a lot. No matter what's going on around you, the roadblocks preventing results, or juggling other responsibilities, the ability to remain calm and disciplined pays massive dividends. All of the presentations we had were very interesting - the one on Wednesday shared a famous movie quote and related it to a networking ice breaker. I won't forget it!
 
-![Dr. Tran knows how to make a great presentation! ](HallasWK6-08.png) ![So does Erin! ](HallasWK6-05.png)
+![Dr. Tran knows how to make a great presentation! ](HallasWK6-10.png) ![So does Erin! ](HallasWK6-05.png)
 
 
 
