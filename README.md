@@ -3,3 +3,11 @@ I wanted somewhere to showcase the blogs I created during my time working at the
 
 # Table of contents
 [Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)

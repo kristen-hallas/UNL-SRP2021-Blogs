@@ -52,4 +52,15 @@ Wait, that last picture is actually from A Novel Idea Bookstore! They were open 
 
 ![felt cute ](HallasWK5-18.jpg) ![soup in a BREAD bowl! ](HallasWK5-19.jpg) 
 
-Next week, we will do more calibration and study design, I will finish my 330 drone and maybe even start building a 550. See you next week!
+Next week, we will do more calibration and study design, I will finish my 330 drone and maybe even start building a 550. See you next week! [Want to read about next week?](./6/HallasWK6.md)
+
+# Table of contents
+[Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)

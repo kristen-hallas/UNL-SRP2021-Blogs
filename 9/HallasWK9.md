@@ -1,4 +1,4 @@
-# Week 7
+# Week 9
 This week, we finished analyzing the data for our project, designing our posters, and recording our presentations!
 
 
@@ -32,4 +32,15 @@ Once everyone finished their presentations, we celebrated together by exploring 
 
 ![ This is my friend Wayne's new pup! She is a beautiful half lab, half Great Pyrenees with olive eyes, named Carly - or maybe Ladybug. I'll find out tonight which name stuck. ](HallasWK9-15.jpg) ![ This is my friend Mike's old pup! She is a beautiful corgi named Penny - she loves pets and parks :) ](HallasWK9-16.jpg)
 
-Next week, we will showcase our poster at the College of Engineering’s Summer Undergraduate Research Fair and discuss our posters at the virtual SRP symposium - and summarize the processes we followed for our mentors - then we will leave :'( Even though I will miss Lincoln so much, I will try my best to return. I have enjoyed the community, the nature, and the university. It's truly felt like home, away from home. There's no place like Nebraska! 
+Next week, we will showcase our poster at the College of Engineering’s Summer Undergraduate Research Fair and discuss our posters at the virtual SRP symposium - and summarize the processes we followed for our mentors - then we will leave :'( Even though I will miss Lincoln so much, I will try my best to return. I have enjoyed the community, the nature, and the university. It's truly felt like home, away from home. There's no place like Nebraska! [You made it through all the weeks! Now, check out what I'm up to on my website. I also have a page about this research project on there!](https://www.kristenhallas.com)
+
+# Table of contents
+[Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)

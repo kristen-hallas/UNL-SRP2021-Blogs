@@ -28,4 +28,15 @@ I learned about how eye movements may differ with an actual pilot checking out t
 
 ![Welcome picnic!](HallasWK1-5.jpg)
 
-Overall, it's been really nice working with everybody else in the lab! I appreciate how dedicated everyone is to keeping our community strong - for all our first week events, we pushed picnic tables together so we could all sit together. And everyone at the picnic on Wednesday was definitely jealous of our nifty NIMBUS polos :D I'm so grateful to be a part of this team and I'm excited for what's to come!
+Overall, it's been really nice working with everybody else in the lab! I appreciate how dedicated everyone is to keeping our community strong - for all our first week events, we pushed picnic tables together so we could all sit together. And everyone at the picnic on Wednesday was definitely jealous of our nifty NIMBUS polos :D I'm so grateful to be a part of this team and I'm excited for what's to come! [Want to read about next week?](./2/HallasWK2.md)
+
+# Table of contents
+[Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)

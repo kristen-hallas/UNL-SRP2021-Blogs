@@ -40,3 +40,16 @@ On Wednesday, Cole showed us the head gear and platform from Pupil Labs we will 
 It's been really fun to hang out with the group! We went to the Dairy Store on Wednesday and got some really good ice cream. I've been utilizing the gym area next to Suites to practice dancing, jump roping, and get my sweat on in the evenings. Over the weekend, I went to two farmer's markets, the Lincoln children's zoo, and the neighboring rose garden - all in one day! It was one of the busiest Saturdays that I think I ever had. So Sunday I did a lot of recovery yoga! For the next week, I know for sure I'll finalize my literature review. **Hopefully** I will also master my pitch and roll control on the Hubsan drones, find out next time!
 
 ![Giraffes! ](HallasWK3-9.jpg) ![Gardens! ](HallasWK3-10.jpg)
+
+[Want to read about next week?](./4/HallasWK4.md)
+
+# Table of contents
+[Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)

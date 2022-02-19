@@ -1,4 +1,4 @@
-# Week 7
+# Week 8
 This week, we finalized a calibration technique, collected the pilot data for our study, and drafted our posters! 
 
 ## My Project
@@ -23,7 +23,7 @@ By the way, I got to participate in Siya's study this week! I thought it was rea
 ![1](HallasWK8-07.jpg) ![2](HallasWK8-08.jpg)
 
 
-
+
 Towards the end of the week we finally collected data for our novice and our experienced pilot!! The trials took about 30-45 minutes per person. 
 
 ![1](HallasWK8-09.jpg) ![2](HallasWK8-10.jpg)
@@ -56,4 +56,15 @@ On the other hand, the HuHot Mongolian Grill is way better than the restaurant i
 
 
 
-Next week, we will finish analyzing our data and creating our posters. See you then! 
+Next week, we will finish analyzing our data and creating our posters. See you then! [Want to read about next week?](./9/HallasWK9.md)
+
+# Table of contents
+[Week 1](./1/HallasWK1.md)
+[Week 2](./2/HallasWK2.md)
+[Week 3](./3/HallasWK3.md)
+[Week 4](./4/HallasWK4.md)
+[Week 5](./5/HallasWK5.md)
+[Week 6](./6/HallasWK6.md)
+[Week 7](./7/HallasWK7.md)
+[Week 8](./8/HallasWK8.md)
+[Week 9](./9/HallasWK9.md)
